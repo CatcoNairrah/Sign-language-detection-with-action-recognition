@@ -2,7 +2,7 @@
 
 This project detects sign language gestures in real time using your webcam. 
 It uses Mediapipe to extract hand and body keypoints and trains an LSTM model to recognize different sign actions.
-
+This model can predict these 9 actions: "Hello", "Welcome", "thank you", "iloveyou", "sorry", "please", "yes", and "no"
 ---
 
 ## Important Notes
